@@ -1,0 +1,293 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595.28 841.89]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+      /F3 7 0 R
+    >>
+  >>
+>>
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+7 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Oblique
+>>
+endobj
+4 0 obj
+<<
+  /Length 2850
+>>
+stream
+0.08 0.08 0.1 rg
+0.26 0.39 0.92 rg
+50 790 495 3 re
+f
+0.08 0.08 0.1 rg
+BT
+/F1 22 Tf
+50 758 Td
+(S.V. PRAVEEN KUMAR) Tj
+ET
+BT
+/F1 10 Tf
+50 740 Td
+(ASPIRING AI/ML DEVELOPER & UNDERGRADUATE CSE STUDENT) Tj
+ET
+BT
+/F2 9 Tf
+50 724 Td
+(Email: praveenkumar251656@gmail.com  |  Location: Tamil Nadu, India) Tj
+ET
+BT
+/F2 9 Tf
+50 710 Td
+(LinkedIn: linkedin.com/in/praveen-kumar-s-v-188364432  |  GitHub: github.com/praveenkumar251656-coder) Tj
+ET
+0.8 0.8 0.85 rg
+50 695 495 0.75 re
+f
+0.26 0.39 0.92 rg
+BT
+/F1 11 Tf
+50 678 Td
+(ACADEMIC PROFILE & EDUCATION) Tj
+ET
+0.08 0.08 0.1 rg
+BT
+/F1 10 Tf
+50 660 Td
+(AMS College of Engineering) Tj
+/F2 9 Tf
+350 660 Td
+(2024 - 2028 | Expected Graduation) Tj
+ET
+BT
+/F2 9.5 Tf
+50 646 Td
+(Bachelor of Engineering (B.E.) in Computer Science and Engineering) Tj
+ET
+BT
+/F3 9 Tf
+50 633 Td
+(Specialization: Artificial Intelligence and Machine Learning) Tj
+ET
+BT
+/F2 8.5 Tf
+50 620 Td
+(Relevant Coursework: Data Structures, Algorithms, OOP, Database Systems, AI Concepts, Machine Learning) Tj
+ET
+0.8 0.8 0.85 rg
+50 605 495 0.75 re
+f
+0.26 0.39 0.92 rg
+BT
+/F1 11 Tf
+50 588 Td
+(TECHNICAL SKILLS & TOOLKIT) Tj
+ET
+0.08 0.08 0.1 rg
+BT
+/F1 9 Tf
+50 570 Td
+(Languages & Core:) Tj
+/F2 9 Tf
+150 570 Td
+(Python, TypeScript, JavaScript, SQL, C/C++ (Foundations), HTML5/CSS3) Tj
+ET
+BT
+/F1 9 Tf
+50 554 Td
+(AI/ML & Data:) Tj
+/F2 9 Tf
+150 554 Td
+(Scikit-learn, Neural Network Foundations, NLP Tokenization, Prompt Engineering) Tj
+ET
+BT
+/F1 9 Tf
+50 538 Td
+(Web & Frameworks:) Tj
+/F2 9 Tf
+150 538 Td
+(React 19, Vite, Tailwind CSS, Express.js, RESTful API Design, Three.js) Tj
+ET
+BT
+/F1 9 Tf
+50 522 Td
+(Developer Tools:) Tj
+/F2 9 Tf
+150 522 Td
+(Git, GitHub, VS Code, Linux Shell, Node.js, Postman) Tj
+ET
+0.8 0.8 0.85 rg
+50 507 495 0.75 re
+f
+0.26 0.39 0.92 rg
+BT
+/F1 11 Tf
+50 490 Td
+(FEATURED PROJECTS & PROTOTYPES) Tj
+ET
+0.08 0.08 0.1 rg
+BT
+/F1 9.5 Tf
+50 472 Td
+(1. TrustLens - AI-Assisted Digital Safety Prototype) Tj
+ET
+BT
+/F2 8.5 Tf
+50 458 Td
+(- Designed interactive interface evaluating suspicious digital text and URLs using heuristic rules.) Tj
+ET
+BT
+/F2 8.5 Tf
+50 445 Td
+(- Built explainable breakdown highlighting scam indicators, urgency triggers, and spoofing flags.) Tj
+ET
+BT
+/F3 8 Tf
+50 433 Td
+(Stack: Python, Scikit-learn heuristics, React, TypeScript, Tailwind CSS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 415 Td
+(2. SmartEdu - Adaptive Learning Platform Concept) Tj
+ET
+BT
+/F2 8.5 Tf
+50 401 Td
+(- Conceptual prototype providing personalized practice problem difficulty based on learner mastery.) Tj
+ET
+BT
+/F2 8.5 Tf
+50 388 Td
+(- Interactive knowledge map tracking progress across data structures and algorithm topics.) Tj
+ET
+BT
+/F3 8 Tf
+50 376 Td
+(Stack: React, TypeScript, Web Storage, Tailwind CSS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 358 Td
+(3. InsightPulse - Business Operations Intelligence) Tj
+ET
+BT
+/F2 8.5 Tf
+50 344 Td
+(- Real-time data visualization dashboard monitoring simulated system performance and operational KPIs.) Tj
+ET
+BT
+/F3 8 Tf
+50 332 Td
+(Stack: TypeScript, Canvas/SVG, Express backend) Tj
+ET
+0.8 0.8 0.85 rg
+50 317 495 0.75 re
+f
+0.26 0.39 0.92 rg
+BT
+/F1 11 Tf
+50 300 Td
+(CORE ATTRIBUTES & PRINCIPLES) Tj
+ET
+0.08 0.08 0.1 rg
+BT
+/F2 8.5 Tf
+50 282 Td
+(- Stay Curious: Continuously exploring machine learning research, algorithms, and practical software design.) Tj
+ET
+BT
+/F2 8.5 Tf
+50 269 Td
+(- Build to Learn: Turning theoretical concepts into working software prototypes and functional tools.) Tj
+ET
+BT
+/F2 8.5 Tf
+50 256 Td
+(- Collaborative & Adaptable: Eager to join engineering teams, contribute actively, and learn from mentors.) Tj
+ET
+0.8 0.8 0.85 rg
+50 241 495 0.75 re
+f
+0.26 0.39 0.92 rg
+BT
+/F1 11 Tf
+50 224 Td
+(OBJECTIVE & AVAILABILITY) Tj
+ET
+0.08 0.08 0.1 rg
+BT
+/F2 8.5 Tf
+50 206 Td
+(Seeking Software Engineering and AI/ML Internship opportunities where I can apply my analytical skills,) Tj
+ET
+BT
+/F2 8.5 Tf
+50 193 Td
+(collaborate on production systems, and accelerate learning under senior engineering mentorship.) Tj
+ET
+0.26 0.39 0.92 rg
+50 160 495 1 re
+f
+BT
+/F3 7.5 Tf
+50 145 Td
+(Official Resume of S.V. Praveen Kumar  |  Generated and managed via Portfolio Admin Console) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000438 00000 n 
+0000000280 00000 n 
+0000000332 00000 n 
+0000000381 00000 n 
+trailer
+<<
+  /Size 8
+  /Root 1 0 R
+>>
+startxref
+3345
+%%EOF
